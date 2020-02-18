@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\StudentScore\StudentScore\bin\Debug\netcoreapp3.1\StudentScore.exe
+C:\Users\USER\source\repos\StudentScore\StudentScore\bin\Debug\netcoreapp3.1\StudentScore.deps.json
+C:\Users\USER\source\repos\StudentScore\StudentScore\bin\Debug\netcoreapp3.1\StudentScore.runtimeconfig.json
+C:\Users\USER\source\repos\StudentScore\StudentScore\bin\Debug\netcoreapp3.1\StudentScore.runtimeconfig.dev.json
+C:\Users\USER\source\repos\StudentScore\StudentScore\bin\Debug\netcoreapp3.1\StudentScore.dll
+C:\Users\USER\source\repos\StudentScore\StudentScore\bin\Debug\netcoreapp3.1\StudentScore.pdb
+C:\Users\USER\source\repos\StudentScore\StudentScore\obj\Debug\netcoreapp3.1\StudentScore.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\StudentScore\StudentScore\obj\Debug\netcoreapp3.1\StudentScore.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\StudentScore\StudentScore\obj\Debug\netcoreapp3.1\StudentScore.AssemblyInfo.cs
+C:\Users\USER\source\repos\StudentScore\StudentScore\obj\Debug\netcoreapp3.1\StudentScore.dll
+C:\Users\USER\source\repos\StudentScore\StudentScore\obj\Debug\netcoreapp3.1\StudentScore.pdb
